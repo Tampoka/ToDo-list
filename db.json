@@ -17,6 +17,12 @@
       "day": "12月8日まで",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "小学校　授業参加",
+      "day": "7月14日",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
